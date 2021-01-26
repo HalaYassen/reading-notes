@@ -5,5 +5,5 @@ in this decumentation I will talk about Growth mindset.
 
 course name | the URL
 ------------ | -------------
-first lab 01a | [growth mindset](https://halayassen.github.io/reading-notes/) 
+first lab 01a | [growth mindset](lab102.md) 
 read 03a | [read03a](Read03a.md)
