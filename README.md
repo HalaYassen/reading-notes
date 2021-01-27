@@ -7,3 +7,4 @@ course name | the URL
 ------------ | -------------
 first lab 01a | [growth mindset](lab102.md) 
 read 03a | [read03a](Read03a.md)
+read 04 | [read04](read04.md)
