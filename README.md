@@ -1,7 +1,9 @@
 
-* my name is Hala Yassen, I'm 25 years old, I'm computer engineer, and I have graduated from Yarmouk University, I live in Irbid with my family
-in this decumentation I will talk about Growth mindset. 
+* my name is Hala Yassen, I'm 25 years old, I'm computer engineer, and I have graduated from Yarmouk University, I live in Irbid with my family.
 
+### in this decumentation I will submite all reading notes for all courses in ASCA 
+
+# course 102
 
 course name | the URL
 ------------ | -------------
@@ -13,6 +15,8 @@ read06|[read06](read06.md)
 
 # Code 201 Reading Notes
 
+**Table of content:**
+
 course name | the URL
 ------------ | -------------
-lab 01a |[read01a_course201](read01a_corse201.md)
+lab 01a |[class-01](class-01.md)

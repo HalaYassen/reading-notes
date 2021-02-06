@@ -4,7 +4,7 @@ target audience—not just for yourself or the
 site owner. It is therefore very important to
 understand who your target audience is.
 individuals
- * Will your site appeal to more women or men? What is the mix?
+* Will your site appeal to more women or men? What is the mix?
 * Which country do your visitors live in?
 * Do they live in urban or rural areas?
 * What is the average income of visitors?
