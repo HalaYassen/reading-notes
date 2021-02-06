@@ -10,3 +10,8 @@ read 03a | [read03a](Read03a.md)
 read 04 | [read04](read04.md)
 read05 |[read05](read05.md)
 read06|[read06](read06.md)
+
+# Code 201 Reading Notes
+course name | the URL
+------------ | -------------
+lab 01a |[read01a_course201](read01a_corse201.md)
