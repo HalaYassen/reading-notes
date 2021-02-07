@@ -55,6 +55,6 @@ Selectors indicate which element the rule applies to. Declarations indicate how 
  `Universal Selector` |Applies to all elements in the document| * { } Targets all elements on the page
  `Type Selector` |Matches element names |h1,h2,h3 { } Targets the `<h1>`, `<h2>` and `<h3>` elements
 
- `Class Selector` |Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol | .note `{ }` Targets any element whose class attribute has a value of note
+ `Class Selector`   |Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol |.note `{ }` Targets any element whose class attribute has a value of note
  `ID Selector`    |Matches an element whose id attribute has a value that matches the one specified afterthe pound or hash symbol    |#introduction { } Targets the element whose id attribute has a value of introduction
 
