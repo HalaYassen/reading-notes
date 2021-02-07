@@ -35,6 +35,7 @@ strong tag indicates that its content has strong importance, by default browsers
 CSS rule contains two parts: a selector and a declaration
 
 > ![the_part_of_CSS](201/CSS1.jpg)
+
 Declarations indicate how the elements referred to in the selector should be styled. declarations are split into two parts 
 1- a property 
 2- a value 
