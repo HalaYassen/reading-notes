@@ -34,7 +34,7 @@ strong tag indicates that its content has strong importance, by default browsers
 # Chpter 10: Introducing CSS
 CSS rule contains two parts: a selector and a declaration
 
-> ![the_part_of_CSS](201/CSS1.jpg)
+>![CSS1](201/CSS1.jpg)
 
 Declarations indicate how the elements referred to in the selector should be styled. declarations are split into two parts 
 1- a property 
@@ -50,11 +50,11 @@ Selectors indicate which element the rule applies to. Declarations indicate how 
  # CSS Selectors :
  There are many different typesof CSS selector that allow you to target rules to specific elementsin an HTML document.
 
- |`Selector`| meaning    |Example|
- |----------   |-------    |-------|
- |`Universal Selector`   |Applies to all elements in the document       |* { } Targets all elements on the page|
- |`Type Selector`   |Matches element names    |h1,h2,h3 { } Targets the `<h1>`, `<h2>` and `<h3>` elements|
+ `Selector` |         meaning  |       Example
+ ---------- |----------        |-------       
+ `Universal Selector` |Applies to all elements in the document| * { } Targets all elements on the page
+ `Type Selector` |Matches element names |h1,h2,h3 { } Targets the `<h1>`, `<h2>` and `<h3>` elements
 
- |`Class Selector`   |Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol    |.note `{ }` Targets any element whose class attribute has a value of note|
- |`ID Selector`    |Matches an element whose id attribute has a value that matches the one specified afterthe pound or hash symbol    |#introduction { } Targets the element whose id attribute has a value of introduction|
+ `Class Selector` |Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol | .note `{ }` Targets any element whose class attribute has a value of note
+ `ID Selector`    |Matches an element whose id attribute has a value that matches the one specified afterthe pound or hash symbol    |#introduction { } Targets the element whose id attribute has a value of introduction
 
