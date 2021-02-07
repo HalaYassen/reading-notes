@@ -49,12 +49,11 @@ Selectors indicate which element the rule applies to. Declarations indicate how 
  # CSS Selectors :
  There are many different typesof CSS selector that allow you to target rules to specific elementsin an HTML document.
 
- `Selector`|meaning|Example
- 
- `Universal Selector`|Applies to all elements in the document|* { } Targets all elements on the page
+ |`Selector`|meaning|Example|
+ |----------|-------|-------|
+ | `Universal Selector`|Applies to all elements in the document|* { } Targets all elements on the page|
+ |`Type Selector`|Matches element names|h1,h2,h3 { } Targets the `<h1>`, `<h2>` and `<h3>` elements|
 
- `Type Selector`|Matches element names|`h1`, `h2`, `h3` `{ }` Targets the `<h1>`, `<h2>` and `<h3>` elements
-
- `Class Selector`|Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol|.note `{ }` Targets any element whose class attribute has a value of note 
- `ID Selector`|Matches an element whose id attribute has a value that matches the one specified afterthe pound or hash symbol|#introduction { } Targets the element whose id attribute has a value of introduction
+ |`Class Selector`|Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol|.note `{ }` Targets any element whose class attribute has a value of note|
+ |`ID Selector`|Matches an element whose id attribute has a value that matches the one specified afterthe pound or hash symbol|#introduction { } Targets the element whose id attribute has a value of introduction|
 
