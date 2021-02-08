@@ -34,7 +34,7 @@ strong tag indicates that its content has strong importance, by default browsers
 # Chpter 10: Introducing CSS
 CSS rule contains two parts: a selector and a declaration
 
->![CSS1](201/CSS1.jpg)
+> ![csss](201/image/csss.GIF "picture_1")
 
 Declarations indicate how the elements referred to in the selector should be styled. declarations are split into two parts 
 1- a property 
