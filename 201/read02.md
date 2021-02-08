@@ -33,8 +33,7 @@ use this tag to change the way that your text looks like!
 strong tag indicates that its content has strong importance, by default browsers show the contents of this tag is bold.
 # Chpter 10: Introducing CSS
 CSS rule contains two parts: a selector and a declaration
-
-> ![csss](201/image/csss.GIF "picture_1")
+<img align="right" width="10%" src="201/image/csss.GIF">
 
 Declarations indicate how the elements referred to in the selector should be styled. declarations are split into two parts 
 1- a property 
