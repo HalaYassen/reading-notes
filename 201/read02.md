@@ -33,8 +33,7 @@ use this tag to change the way that your text looks like!
 strong tag indicates that its content has strong importance, by default browsers show the contents of this tag is bold.
 # Chpter 10: Introducing CSS
 CSS rule contains two parts: a selector and a declaration
-<img align="right" width="10%" src="201/image/csss.GIF">
-
+![figure1](CSS1.jpg)
 Declarations indicate how the elements referred to in the selector should be styled. declarations are split into two parts 
 1- a property 
 2- a value 
@@ -47,7 +46,7 @@ Selectors indicate which element the rule applies to. Declarations indicate how 
  It should use three attributes: `<href>` ,`<type>`,`<rel>`.
 
  # CSS Selectors :
- There are many different typesof CSS selector that allow you to target rules to specific elementsin an HTML document.
+ There are many different typesof CSS selector that allow you to target rules to specific elements in an HTML document.
 
  `Selector` |         meaning  |       Example
  ---------- |----------        |-------       
