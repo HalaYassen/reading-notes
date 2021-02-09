@@ -19,8 +19,6 @@ Links are created using the `<a>`.
 
  <span style="color:green"> **for Example**</spain>
 
- ![link_figure](href.jpg)
-
  The text between `<a>` tag is known as **link text**, Clear link text (meaningful) can help visitors find what they want, and will give them more positive impression of your site and may motivates them to visit your site for longer,so to write a good link text, you can think of words that people may use when searching for the page that you are linking to.
 
 The value of `href` attribute is the page that you want people to go to, when they click on the link, so when you link to a different website the value of the href
@@ -74,6 +72,55 @@ If you want a link to open in a new window, you can use the `target` attribute o
 
 
 **NOTE** in general you should avoid opening links in a new window, but if you do it, it is good practice to inform user that the link will be open in a new window before click on it.
+
+### Layout
+
+* Key Concepts in Positioning Elements
+
+Building Blocks: CSS treats each HTML element as if it is in its own box. This box will either be a block-level which start in a new line box or, inline box. 
+
+Containing Elements: If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.
+
+**CSS has the three positioning schemes that allow you to control the layout of a page:**
+
+* 1-normal flow
+
+* 2-relative positioning.
+
+* 3- absolute positioning.
+
+* To indicate where a box should be positioned, you may also need to use box offset properties if it fixed positioning or floating elements
+
+# part two: javascript
+
+* functions and method and objects : 
+
+**function:** 
+
+consist of a series of statements that have been grouped together because they perform aspecific task. 
+
+**objects:**
+
+ we use it create models of the world using data and it made up of properties and methods
+
+**method:**
+
+ is the same as function ,except methods are created inside and part of object.
+
+
+**variable scope:**
+
+The location where you declare a variable will affect where it can be used within your code, if you declare it within a function, it can only be used within that function, it is the variable scope.
+
+* When a variable is created inside a function using the var keyword, it can only be used in that function, its local variable
+
+* If you create a variable outside of a function, then it can be used anywhere within the script, called global variable.
+
+# subject of the article  "pair programming" 
+
+**pair programming** is the practice of two developers sharing a single workstation to interactively tackle a coding task togethe. theres a tow roles when we writing the code
+
+Pair programming touches on all four skills, speaking, listening, reading and writing , developers explain out loud what the code should do, listen to other guidance, read code that others have written, and write code.
 
 
 
