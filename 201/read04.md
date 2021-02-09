@@ -18,6 +18,8 @@ Links are created using the `<a>`.
  so you can click on anything between the opening `<a>` tag and the closing `</a>` tag You determine the page that you want to link by using the `href` attribute!
 
  <span style="color:green"> **for Example**</spain>
+ 
+![href_figure](hrif.jpg)
 
  The text between `<a>` tag is known as **link text**, Clear link text (meaningful) can help visitors find what they want, and will give them more positive impression of your site and may motivates them to visit your site for longer,so to write a good link text, you can think of words that people may use when searching for the page that you are linking to.
 
