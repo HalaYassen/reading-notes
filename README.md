@@ -24,7 +24,7 @@ Read 02|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/rea
 Read 03|[HTML Lists, CSS Boxes, JS Control Flow](201/read03.md)
 Read 04|[HTML Links, CSS Layout, JS Functions](201/read04.md)
 Read 05|[HTML Images; CSS Color & Text](201/read05.md)
-Read 06|[06](201/read06.md)
+Read 06|[Problem Domain, Objects, and the DOM](201/read06.md)
 Read 07|[07](201/read07.md)
 Read 08|[08](201/read08.md)
 Read 09|[09](201/read09.md)
