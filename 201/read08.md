@@ -22,7 +22,7 @@ Containing Elements: If one block-level element sits inside another block-level 
 
 * page sizes ;Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide.
 
-* screen Resolution ;Resolution refers to the number of dots a screen shows per inch.
+* screen resolution ;Resolution refers to the number of dots a screen shows per inch.
 
 * Measurements tend to be given in pixels. 
 
