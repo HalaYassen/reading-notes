@@ -40,3 +40,24 @@ changing the element in three dimensional scale x , y , z .
 **Scale:** using scale Z (3d_tras.) transform elements may be scaled on the z axis. This isn’t extremely exciting when no other three-dimensional transforms are in place, as there is nothing in particular to scale. 
 
 **Each of them(2-D/3-D) comes with their own individual properties and values**
+
+# TRANSITIONS:
+
+visual interactions from one state to another. the animation-name declaration is applied to the element in which the animation is to be applied in.
+
+* There are four transitions :
+
+1. `transition-property`
+2. `transition-duration`
+3. `transition-timing-function`
+4. `transition-delay`
+
+* 8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS: 
+1. Square to circle
+2. Rotate elements
+3. 3D shadow
+4. Swing
+5. Change color
+6. Inset border
+7. Grow & Shrink
+8. fade in
